@@ -1,9 +1,10 @@
-<div align=center>
-<h2>Hi! I'm Juae Koo 🙋🏻‍♀️</h2>
 
-<h3>Studying Frontend & App</h3>
+<h3>Hi! I'm Juae Koo 🙋🏻‍♀️</h3>
 
-<h3>📌Tech Stack</h3>
+<h4>Studying Frontend & App</h4>
+
+<div align="center">
+<h4>📌Tech Stack</h4>
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>&nbsp
@@ -20,13 +21,12 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 </p>
 
-<h3>📊Language</h3>
+<h4>📊Language</h4>
  [![juaekoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juaekoo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/juaekoo)
 
 
-<h3>📈Github Stats</h3>
-<!--  ![juaekoo's github stats](https://github-readme-stats.vercel.app/api?username=juaekoo&show_icons=true&theme=codeSTACKr) -->
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juaekoo&show_icons=true&theme=codeSTACKr)
+<h4>📈Github Stats</h4>
+ ![juaekoo's github stats](https://github-readme-stats.vercel.app/api?username=juaekoo&show_icons=true&theme=codeSTACKr)
 </div>
 
 <!--
