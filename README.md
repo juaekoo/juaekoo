@@ -1,8 +1,8 @@
+<div align=center>
 <h2>Hi! I'm Juae Koo 🙋🏻‍♀️</h2>
 
 <h3>Studying Frontend & App</h3>
 
-<div align=center>
 <h3>📌Tech Stack</h3>
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>&nbsp
