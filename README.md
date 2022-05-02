@@ -1,11 +1,8 @@
-<h2>Hi! I'm Juae Koo 🙋🏻‍♀️</h3>
+<h2>Hi! I'm Juae Koo 🙋🏻‍♀️</h2>
 
-<h3>Studying Frontend & App</h4>
-
-![juaekoo's github stats](https://github-readme-stats.vercel.app/api?username=juaekoo&show_icons=true&theme=algolia)
-[![juaekoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juaekoo&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)](https://github.com/juaekoo)
-
-<h4>📌 Tech Stack</h5>
+<h3>Studying Frontend & App</h3>
+<br />
+<h4>📌 Tech Stack</h4>
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>&nbsp
@@ -21,6 +18,9 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 </p>
+
+[![juaekoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juaekoo&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)](https://github.com/juaekoo)
+![juaekoo's github stats](https://github-readme-stats.vercel.app/api?username=juaekoo&show_icons=true&theme=codeSTACKr)
 
 <!--
 **juaekoo/juaekoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
