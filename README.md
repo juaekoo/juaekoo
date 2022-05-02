@@ -21,12 +21,11 @@
 </p>
 
 <h3>📊Language</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juaekoo&layout=compact)](https://github.com/juaekoo/github-readme-stats)
-![juaekoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juaekoo&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)](https://github.com/juaekoo)
+ [![juaekoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juaekoo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/juaekoo)
 
-<h3>📈Github Stats</h3>
+<!-- <h3>📈Github Stats</h3>
  ![juaekoo's github stats](https://github-readme-stats.vercel.app/api?username=juaekoo&show_icons=true&theme=codeSTACKr)
-</div>
+</div> -->
 
 <!--
 **juaekoo/juaekoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
