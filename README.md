@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![juaekoo's github stats](https://github-readme-stats.vercel.app/api?username=juaekoo&show_icons=true&theme=buefy)
+![juaekoo's github stats](https://github-readme-stats.vercel.app/api?username=juaekoo&show_icons=true&theme=github_dark)
 [![juaekoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juaekoo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/juaekoo)
 
 <!--
