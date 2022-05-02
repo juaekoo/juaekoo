@@ -5,7 +5,7 @@
 ![juaekoo's github stats](https://github-readme-stats.vercel.app/api?username=juaekoo&show_icons=true&theme=algolia)
 [![juaekoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juaekoo&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)](https://github.com/juaekoo)
 
-##### 📌 ️Tech Stack
+<h5>📌 Tech Stack</h5>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
