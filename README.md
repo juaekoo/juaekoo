@@ -20,14 +20,10 @@
 </p>
 
 <h3 align="center">📊Language</h3>
-<p align="center">
 [![juaekoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juaekoo&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)](https://github.com/juaekoo)
-</p>
 
 <h3 align="center">📈Github Stats</h3>
-<p align="center">
 ![juaekoo's github stats](https://github-readme-stats.vercel.app/api?username=juaekoo&show_icons=true&theme=codeSTACKr)
-</p>
 
 
 <!--
