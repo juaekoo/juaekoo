@@ -1,7 +1,7 @@
 
-<h3>Hi! I'm Juae Koo 🙋🏻‍♀️</h3>
+<h2>Hi! I'm Juae Koo 🙋🏻‍♀️</h2>
 
-<h5>Studying Frontend & Apps.</h5>
+<h4>Studying Frontend & Apps.</h4>
 
 <div align="center">
 <h3>📌Tech Stack</h3>
