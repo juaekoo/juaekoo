@@ -1,11 +1,11 @@
-<h3>Hi! I'm Juae Koo 🙋🏻‍♀️</h3>
+<h2>Hi! I'm Juae Koo 🙋🏻‍♀️</h3>
 
-<h4>Studying Frontend & App</h4>
+<h3>Studying Frontend & App</h4>
 
 ![juaekoo's github stats](https://github-readme-stats.vercel.app/api?username=juaekoo&show_icons=true&theme=algolia)
 [![juaekoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juaekoo&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)](https://github.com/juaekoo)
 
-<h5>📌 Tech Stack</h5>
+<h4>📌 Tech Stack</h5>
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>&nbsp
